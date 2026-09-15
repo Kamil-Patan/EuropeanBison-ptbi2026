@@ -10,10 +10,11 @@ Adam Mickiewicz University, Poznań, Poland
 
 Poster presented at PTBI 2026.
 
+## Poster
 
----
+[![Poster preview](poster_preview.png)](Poster_Bison.pdf)
 
-
+[Open the poster (PDF)](Poster_Bison.pdf) · [Download](https://github.com/Kamil-Patan/EuropeanBison-ptbi2026/raw/main/Poster_Bison.pdf)
 
 ## Contact
 
